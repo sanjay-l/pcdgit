@@ -17,4 +17,3 @@ printf("%d is a palindrome\n",a);
 printf("%d is not a palindrome\n",a);
 return 0;
 }
-
