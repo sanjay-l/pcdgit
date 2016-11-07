@@ -25,4 +25,3 @@ printf("the roots are complex r1=%f+i%f,r2=%f-i%f\n",rr,ir,rr,ir);
 }
 return 0;
 }
-
